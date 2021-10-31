@@ -17,13 +17,5 @@
 
 
 ## Используемые инструменты
-- Pandas
-- Numpy
-- Math
-- Time
-- Datetime
-- Sklearn
-- Catboost
-- Lightgbm
-- Matplotlib
-- Seaborn
+
+Pandas, Numpy, Math, Time, Datetime, Sklearn, Catboost, Lightgbm, Matplotlib, Seaborn

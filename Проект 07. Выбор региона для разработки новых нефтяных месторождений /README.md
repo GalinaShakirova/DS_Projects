@@ -18,10 +18,5 @@
 
 
 ## Используемые инструменты
-- Pandas
-- Numpy
-- Math
-- Sklearn
-- Catboost
-- Time
-- Matplotlib
+
+Pandas, Numpy, Math, Sklearn, Catboost, Time, Matplotlib

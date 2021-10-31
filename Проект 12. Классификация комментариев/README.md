@@ -11,17 +11,5 @@
 
 
 ## Используемые инструменты
-- Pandas
-- Numpy
-- Math
-- Time
-- Datetime
-- Re
-- String
-- Nltk
-- Torch
-- Transformers
-- Sklearn
-- Catboost
-- Lightgbm
-- Matplotlib
+
+Pandas, Numpy, Math, Time, Datetime, Re, String, Nltk, Torch, Transformers, Sklearn, Catboost, Lightgbm, Matplotlib

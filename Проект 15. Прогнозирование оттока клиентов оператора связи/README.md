@@ -22,11 +22,5 @@
 Задача - построить модель для прогноза оттока клиентов.
 
 ## Используемые инструменты
-- Pandas
-- Numpy
-- Time
-- Datetime
-- Sklearn
-- Catboost
-- Matplotlib
-- Seaborn
+
+Pandas, Numpy, Time, Datetime, Sklearn, Catboost, Matplotlib, Seaborn

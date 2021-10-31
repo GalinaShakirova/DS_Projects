@@ -8,6 +8,5 @@
 
 
 ## Используемые инструменты
-- Pandas
-- Matplotlib
-- Seaborn
+
+Pandas, Matplotlib, Seaborn

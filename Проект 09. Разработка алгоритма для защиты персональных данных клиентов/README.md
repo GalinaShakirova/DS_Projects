@@ -10,6 +10,5 @@
 
 
 ## Используемые инструменты
-- Pandas
-- Numpy
-- Sklearn
+
+Pandas, Numpy, Sklearn

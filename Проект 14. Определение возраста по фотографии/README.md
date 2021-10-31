@@ -12,7 +12,5 @@
 
 
 ## Используемые инструменты
-- Pandas
-- Numpy
-- Matplotlib
-- Tensorflow
+
+Pandas, Numpy, Matplotlib, Tensorflow

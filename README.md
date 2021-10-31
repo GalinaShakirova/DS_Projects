@@ -1,21 +1,21 @@
 # Проекты по Data Science
 В репозитории размещены проекты, выполнены в ходе обучения в Яндекс.Практикум, профессии "Специалист по Data Science". Далее приведена общая информация о проекте и используемые инструменты в процессе выполнения проекта.
 
-[id1]: 
-[id2]: 
-[id3]: 
-[id4]: 
-[id5]: 
-[id6]: 
-[id7]: 
-[id8]: 
-[id9]: 
-[id10]: 
-[id11]: 
-[id12]: 
-[id13]: 
-[id14]: 
-[id15]:
+[id1]: https://github.com/GalinaShakirova/DS_Projects/tree/main/Проект%2001.%20Исследование%20надёжности%20заёмщиков
+[id2]: https://github.com/GalinaShakirova/DS_Projects/tree/main/Проект%2002.%20Анализ%20рынка%20недвижимости
+[id3]: https://github.com/GalinaShakirova/DS_Projects/tree/main/Проект%2003.%20Определение%20перспективного%20тарифа%20для%20телеком%20компании
+[id4]: https://github.com/GalinaShakirova/DS_Projects/tree/main/Проект%2004.%20Исследование%20рынка%20компьютерных%20игр
+[id5]: https://github.com/GalinaShakirova/DS_Projects/tree/main/Проект%2005.%20Рекомендация%20новых%20тарифов%20клиентам
+[id6]: https://github.com/GalinaShakirova/DS_Projects/tree/main/Проект%2006.%20Прогноз%20оттока%20клиентов%20банка
+[id7]: https://github.com/GalinaShakirova/DS_Projects/tree/main/Проект%2007.%20Выбор%20региона%20для%20разработки%20новых%20нефтяных%20месторождений%20
+[id8]: https://github.com/GalinaShakirova/DS_Projects/tree/main/Проект%2008.%20%20Подготовка%20прототипа%20модели%20для%20металлообрабатывающего%20%20предприятия
+[id9]: https://github.com/GalinaShakirova/DS_Projects/tree/main/Проект%2009.%20Разработка%20алгоритма%20для%20защиты%20персональных%20данных%20клиентов
+[id10]: https://github.com/GalinaShakirova/DS_Projects/tree/main/Проект%2010.%20Предсказание%20стоимости%20автомобиля
+[id11]: https://github.com/GalinaShakirova/DS_Projects/tree/main/Проект%2011.%20%20Прогнозирование%20заказов%20такси
+[id12]: https://github.com/GalinaShakirova/DS_Projects/tree/main/Проект%2012.%20Классификация%20комментариев
+[id13]: https://github.com/GalinaShakirova/DS_Projects/tree/main/Проект%2013.%20%20Исследование%20данных%20авиакомпании
+[id14]: https://github.com/GalinaShakirova/DS_Projects/tree/main/Проект%2014.%20Определение%20возраста%20по%20фотографии
+[id15]: https://github.com/GalinaShakirova/DS_Projects/tree/main/Проект%2015.%20Прогнозирование%20оттока%20клиентов%20оператора%20связи
 
 
 | № | Название проекта   | Описание | Используемые библиотеки |

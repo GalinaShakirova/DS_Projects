@@ -12,8 +12,5 @@
 
 
 ## Используемые инструменты
-- Pandas
-- Numpy
-- Scipy
-- Datetime
-- Seaborn
+
+Pandas, Numpy, Scipy, Datetime, Seaborn

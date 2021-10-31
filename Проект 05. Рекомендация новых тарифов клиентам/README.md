@@ -11,8 +11,5 @@
 
 
 ## Используемые инструменты
-- Pandas
-- Numpy
-- Sklearn
-- Time
-- Seaborn
+
+Pandas, Numpy, Sklearn, Time, Seaborn
